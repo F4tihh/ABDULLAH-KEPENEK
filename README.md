@@ -1,5 +1,5 @@
-# ABDULLAH-KEPENEK
-
+# Abdullah Kepenek 👋
+### Embedded Systems Engineer | STM32 | ESP32 | Industrial Automation
 # Hi, I'm Abdullah Kepenek 👋
 
 ## Embedded Systems Engineer
@@ -15,7 +15,15 @@ I am an Embedded Systems Engineer with 5+ years of experience in designing and d
 - **Protocols:** UART, SPI, I2C, MQTT, Ethernet (LwIP)
 - **Tools:** STM32CubeIDE, Altium Designer, Proteus
 - **Other:** RTOS, Embedded Linux, PCB Design
+## 🔧 Tech Stack
 
+![STM32](https://img.shields.io/badge/STM32-blue?style=for-the-badge)
+![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge)
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-purple?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
+![RTOS](https://img.shields.io/badge/RTOS-green?style=for-the-badge)
+![LwIP](https://img.shields.io/badge/LwIP-lightgrey?style=for-the-badge)
 ---
 
 ## 🚀 Current Projects
